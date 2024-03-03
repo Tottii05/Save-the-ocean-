@@ -4,9 +4,6 @@ namespace Pruebas
 {
     public class Rescue
     {
-        const string DefaultNum = "RES123";
-        const int DefaultGA = 37;
-        const string DefaultLocation = "Gavà";
         public string RescueNum { get; set; }
         public string RescueDate { get; set; }
         public string SuperFamily { get; set; }
